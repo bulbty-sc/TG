@@ -42,13 +42,13 @@ jobs:
           mkdir -p zee
           python3 private-src/zee5.py \
             --output-dir zee \
-            --zee5-urls-file private-src/zee5_urls.txt
+            --urls-file private-src/zee5_urls.txt
 
       - name: Show Stats
         run: |
           echo "Files in zee folder:"
           ls -lh zee/ || echo "No files yet"
-          echo "File count: $(ls -1 zee/*.json 2>/dev/null | wc -l)"
+          echo "File count: $(find zee -maxdepth 1 -type f -name '*.json' | wc -l)"
 
       - name: Commit and Push
         run: |
