@@ -1,0 +1,61 @@
+name: Hotstar Episode Tracker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"   # Every 5 minutes
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: bulbty-push/OTT
+          token: ${{ secrets.PRIVATE_REPO_PAT }}
+          path: private-src
+
+      - name: Mask Proxy
+        run: echo "::add-mask::${{ secrets.HOTSTAR_PROXY }}"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Hotstar Tracker
+        env:
+          HOTSTAR_PROXY: ${{ secrets.HOTSTAR_PROXY }}
+        run: |
+          mkdir -p hotstar
+          python3 private-src/hotstar.py \
+            --output-dir hotstar \
+            --hotstar-urls-file private-src/hotstar_urls.txt
+
+      - name: Show Stats
+        run: |
+          echo "Files in hotstar folder:"
+          ls -lh hotstar/ || echo "No files yet"
+          echo "File count: $(ls -1 hotstar/*.json 2>/dev/null | wc -l)"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p hotstar
+          git add hotstar/
+          git diff --cached --quiet && exit 0
+          git commit -m "Hotstar Episodes Update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
