@@ -1,0 +1,61 @@
+name: Zee5 Episode Tracker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"   # Every 5 minutes
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout Public Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: bulbty-push/OTT
+          token: ${{ secrets.PRIVATE_REPO_PAT }}
+          path: private-src
+
+      - name: Mask Proxy
+        run: echo "::add-mask::${{ secrets.ZEE_PROXY }}"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Zee5 Tracker
+        env:
+          ZEE_PROXY: ${{ secrets.ZEE_PROXY }}
+        run: |
+          mkdir -p zee
+          python3 private-src/zee5.py \
+            --output-dir zee \
+            --zee5-urls-file private-src/zee5_urls.txt
+
+      - name: Show Stats
+        run: |
+          echo "Files in zee folder:"
+          ls -lh zee/ || echo "No files yet"
+          echo "File count: $(ls -1 zee/*.json 2>/dev/null | wc -l)"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p zee
+          git add zee/
+          git diff --cached --quiet && exit 0
+          git commit -m "Zee5 Episodes Update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
