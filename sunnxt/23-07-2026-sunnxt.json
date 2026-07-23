@@ -12,6 +12,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Iru Malargal",
+    "contentId": "241976",
+    "season": 1,
+    "episode": 159,
+    "episodeTitle": "E159 - Jul 23, 2026",
+    "description": "When secrets, societal pressure, and an unexpected wedding come between three childhood friends—Aadhi, Magizhini, and Madhiyazhagi—tradition and emotions clash, turning their lives upside down and testing every bond they hold dear.",
+    "releaseDate": "2026-07-23T14:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-iru-malargal/detail/241976"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Kayal",
     "contentId": "126554",
     "season": 1,
@@ -31,6 +42,17 @@
     "description": "Experience a unique cooking show packed with chef-inspired dishes, medicinal recipes, village-style cooking, and celebrity guests, all woven into exciting and unique weekly themes — with opportunities for viewers to participate too.",
     "releaseDate": "2026-07-23T11:30:00.000Z",
     "url": "https://www.sunnxt.com/suntv-tamil-serial-kitchen-galatta/detail/250946"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Lakshmi Tamil",
+    "contentId": "186424",
+    "season": 1,
+    "episode": 701,
+    "episodeTitle": "E701 - Jul 23, 2026",
+    "description": "Maha, her family’s financial backbone, marries Selvam, on condition that she will continue to support her family financially even after marriage. Post which they confront challenges that put the family’s peace and happiness to test.",
+    "releaseDate": "2026-07-23T15:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-lakshmi/detail/186424"
   },
   {
     "channel": "SUN_TV",
@@ -56,6 +78,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Pudhu Vasantham",
+    "contentId": "167808",
+    "season": 1,
+    "episode": 943,
+    "episodeTitle": "E943 - Jul 23, 2026",
+    "description": "Raised as a single child, Selvi longs for the loving embrace & heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds & win over her husband's large family.",
+    "releaseDate": "2026-07-23T13:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-pudhu-vasantham/detail/167808"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Singappenne",
     "contentId": "175178",
     "season": 1,
@@ -75,5 +108,16 @@
     "description": "A powerful tale of two sisters, Thulasi and Thendral, whose bond is tested by betrayal, greed, and dark intentions. United by courage and love, they rise strong to expose the truth in their battle against injustice.",
     "releaseDate": "2026-07-23T12:30:00.000Z",
     "url": "https://www.sunnxt.com/suntv-tamil-serial-thulasi/detail/250767"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Vinodhini",
+    "contentId": "223140",
+    "season": 1,
+    "episode": 353,
+    "episodeTitle": "E353 - Jul 23, 2026",
+    "description": "When her husband, a soldier, disappears in a military accident, Vinothini never loses hope, firmly believing he'll come back. Join her inspiring journey as she cares for his family & meets life's hardships as a single mother with resilience & love.",
+    "releaseDate": "2026-07-23T13:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-vinodhini/detail/223140"
   }
 ]
