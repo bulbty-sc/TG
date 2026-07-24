@@ -3,10 +3,14 @@ name: SunNXT Episode Tracker
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/5 * * * *"   # Every 5 minutes
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: ott-json-updates
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -16,6 +20,11 @@ jobs:
     steps:
       - name: Checkout Public Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync Latest Public Repo
+        run: git pull --rebase origin main
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -48,14 +57,21 @@ jobs:
         run: |
           echo "Files in sunnxt folder:"
           ls -lh sunnxt/ || echo "No files yet"
-          echo "File count: $(ls -1 sunnxt/*.json 2>/dev/null | wc -l)"
+          echo "File count: $(find sunnxt -maxdepth 1 -type f -name '*.json' | wc -l)"
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p sunnxt
-          git add sunnxt/
-          git diff --cached --quiet && exit 0
+
+          git add -A sunnxt/
+
+          if git diff --cached --quiet; then
+            echo "No SunNXT JSON changes"
+            exit 0
+          fi
+
           git commit -m "SunNXT Episodes Update $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+
+          git pull --rebase origin main
+          git push origin main
