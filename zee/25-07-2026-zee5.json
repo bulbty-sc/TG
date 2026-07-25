@@ -45,6 +45,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Ayali",
+    "contentId": "0-6-4z5761653",
+    "season": 1,
+    "episode": 356,
+    "episodeTitle": "Ayali - July 25, 2026",
+    "description": "Shunned by her family over false accusations against her mother, Ayali tolerates her stepmom’s cruelty and teams up with Siva to expose Varma and prove her mother's innocence.",
+    "releaseDate": "2026-07-25T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/ayali/0-6-4z5761653"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -53,6 +64,28 @@
     "description": "The goons dump an uncoscious Rajeshwari in the sack but lie to Anand when he questions them.",
     "releaseDate": "2026-07-25T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Karthigai Deepam",
+    "contentId": "0-6-4z5262158",
+    "season": 1,
+    "episode": 1272,
+    "episodeTitle": "Mayilvahanam Frames Paravthy",
+    "description": "Sivanandi gets irked as Rajarajan performs the puja. Elsewhere, Mayilvahanam frames Parvathy.",
+    "releaseDate": "2026-07-25T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/karthigai-deepam/0-6-4z5262158"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Paarijatham",
+    "contentId": "0-6-4z5808694",
+    "season": 1,
+    "episode": 258,
+    "episodeTitle": "Vishal Outsmarts Sreeja",
+    "description": "Fearing Sreeja's threats, Isai tries to reveal the truth to Subhadra but Vishal outsmarts Sreeja.",
+    "releaseDate": "2026-07-25T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/paarijatham/0-6-4z5808694"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -78,13 +111,13 @@
   },
   {
     "channel": "ZEE_TAMIL",
-    "showName": "Varisu",
-    "contentId": "0-6-4z5778545",
+    "showName": "Veera",
+    "contentId": "0-6-4z5521331",
     "season": 1,
-    "episode": 336,
-    "episodeTitle": "Prabhu Instigates Cibi",
-    "description": "Cibi retorts sharply when Prabhu humiliates KD and instigates him.",
+    "episode": 707,
+    "episodeTitle": "Veera - July 25, 2026",
+    "description": "Veera and Kanmani lose their brother in a road accident caused by Maaran. What happens when a series of unfortunate events lead Veera to marry Maaran, and Kanmani decides to seek revenge?",
     "releaseDate": "2026-07-25T00:00:00",
-    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+    "url": "https://www.zee5.com/tv-shows/details/veera/0-6-4z5521331"
   }
 ]
