@@ -133,6 +133,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Siragugal",
+    "contentId": "256262",
+    "season": 1,
+    "episode": 4,
+    "episodeTitle": "E4 - Jul 23, 2026",
+    "description": "After losing everything to her family's greed and betrayal, Parvathi finds a new home with Dharmadurai's family. As she heals a divided household scarred by feuds, fate draws the two closer in a moving tale of love and redemption.",
+    "releaseDate": "2026-07-23T14:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-siragugal/detail/256262"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Thulasi",
     "contentId": "250767",
     "season": 1,
