@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ott-json-updates
+  group: hotstar-episode-tracker
   cancel-in-progress: false
 
 jobs:
