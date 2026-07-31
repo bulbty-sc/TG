@@ -1,6 +1,17 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Annamalai Kudumbam",
+    "contentId": "0-6-4z5852763",
+    "season": 1,
+    "episode": 216,
+    "episodeTitle": "Annamalai Kudumbam - July 31, 2026",
+    "description": "Annamalai's search for a suitable wife for her son, Varun, leads her to Vennila, who possesses traditional values. But tensions arise when Vennila’s sister, Vaanmathy, disrupts the equation.",
+    "releaseDate": "2026-07-31T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/annamalai-kudumbam/0-6-4z5852763"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -9,5 +20,16 @@
     "description": "Bharathi donates Vasu’s heart after his sudden death, giving Aadhi a new lease of life. When Aadhi goes to thank her, he feels an instant connection with her. Will this be the beginning of a new bond?",
     "releaseDate": "2026-07-31T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Varisu",
+    "contentId": "0-6-4z5778545",
+    "season": 1,
+    "episode": 341,
+    "episodeTitle": "Varisu - July 31, 2026",
+    "description": "Janakambal, a successful entrepreneur, wants her reckless grandson Cibi to succeed her. She brings in Tamil to set him straight, but can he really change?",
+    "releaseDate": "2026-07-31T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
   }
 ]
