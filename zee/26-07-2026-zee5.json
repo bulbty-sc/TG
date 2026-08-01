@@ -1,6 +1,28 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Dance Jodi Dance",
+    "contentId": "0-6-4z5975704",
+    "season": 1,
+    "episode": 14,
+    "episodeTitle": "The Constestants Rock the Stage",
+    "description": "In Thalapathy Kacheri the contestants mesmerise the judges with their magnificent performances.",
+    "releaseDate": "2026-07-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/dance-jodi-dance/0-6-4z5975704"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Mahanadigai 2026",
+    "contentId": "0-6-4z5947219",
+    "season": 1,
+    "episode": 10,
+    "episodeTitle": "Muthukumaran and Ashwathi are Lauded",
+    "description": "In the Legends round, Ashwathi and Muthukumaran are lauded for recreating 'Aayirathil Oruvan'",
+    "releaseDate": "2026-07-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/mahanadigai-2026/0-6-4z5947219"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Tamizha Tamizha Season 3",
     "contentId": "0-6-4z5391650",
     "season": 1,
