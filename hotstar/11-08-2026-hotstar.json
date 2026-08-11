@@ -71,6 +71,34 @@
   },
   {
     "channel": "STAR_VIJAY",
+    "title": "Azhagae Azhagu",
+    "showId": "1271525502",
+    "contentId": "1641030050",
+    "season": 1,
+    "episode": 144,
+    "episodeTitle": "Thangaraj Falls at Raghavan's Feet",
+    "description": "Bhagyaraj brings Revathi home after Thangaraj's mistreatment. Despite Thangaraj begging Raghavan for forgiveness, Bhagyaraj strictly refuses to send Revathi back.",
+    "airDate": "11 Aug 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/azhagae-azhagu/1271525502",
+    "episodeUrl": "https://www.hotstar.com/in/shows/azhagae-azhagu/1271525502/thangaraj-falls-at-raghavans-feet/1641030050/watch"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Pandian Stores 2",
+    "showId": "1260000603",
+    "contentId": "1641030174",
+    "season": 2,
+    "episode": 856,
+    "episodeTitle": "Senthil Gets Suspended",
+    "description": "Senthil gets suspended from his job after being exposed for taking a bribe. Later, Pandian lashes out at Senthil for his actions and the resulting consequences.",
+    "airDate": "11 Aug 2026",
+    "duration": "19m",
+    "url": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603",
+    "episodeUrl": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603/senthil-gets-suspended/1641030174/watch"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Ayyanar Thunai",
     "showId": "1271388570",
     "contentId": "1641030100",
@@ -96,5 +124,47 @@
     "duration": "21m",
     "url": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356",
     "episodeUrl": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356/sathya-enters-a-hidden-trap/1641030138/watch"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Chinna Marumagal",
+    "showId": "1260167204",
+    "contentId": "1641030157",
+    "season": 1,
+    "episode": 676,
+    "episodeTitle": "Aishwarya's Critical Condition",
+    "description": "Sethupathi is worried as Aishwarya is hospitalised in critical condition after a scorpion bite. Malar informs Tamizhselvi, who wishes to see Aishwarya.",
+    "airDate": "11 Aug 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/chinna-marumagal/1260167204",
+    "episodeUrl": "https://www.hotstar.com/in/shows/chinna-marumagal/1260167204/aishwaryas-critical-condition/1641030157/watch"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Kadhal Kadhal Kadhal",
+    "showId": "1271660314",
+    "contentId": "1641030155",
+    "season": 1,
+    "episode": 27,
+    "episodeTitle": "Maran Embarrasses Kasthuri",
+    "description": "Madhu confronts her father, questioning him about the attack on Arjun. Maran frightens and embarrasses Kasthuri by deliberately throwing a lizard at her.",
+    "airDate": "11 Aug 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/kadhal-kadhal-kadhal/1271660314",
+    "episodeUrl": "https://www.hotstar.com/in/shows/kadhal-kadhal-kadhal/1271660314/maran-embarrasses-kasthuri/1641030155/watch"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Onna Irukka Kaththukanum",
+    "showId": "1271650450",
+    "contentId": "1641030163",
+    "season": 1,
+    "episode": 32,
+    "episodeTitle": "Indhira's Conditions Ruin the Match",
+    "description": "The groom refuses to marry Indhira after hearing her conditions. Murugan is overjoyed when Indhira says she also prays for him to get his desired life partner.",
+    "airDate": "11 Aug 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/onna-irukka-kaththukanum/1271650450",
+    "episodeUrl": "https://www.hotstar.com/in/shows/onna-irukka-kaththukanum/1271650450/indhiras-conditions-ruin-the-match/1641030163/watch"
   }
 ]
