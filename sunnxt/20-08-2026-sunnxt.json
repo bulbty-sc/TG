@@ -45,6 +45,28 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Poongodi",
+    "contentId": "213252",
+    "season": 1,
+    "episode": 466,
+    "episodeTitle": "E466 - Aug 20, 2026",
+    "description": "Poongodi rises above her father's male chauvinism, intent on proving herself & pursuing a college education. Her path crosses with Saravanan, a naïve young man who blindly trusts his manipulative stepmother. Uncover the fate of the two kindred souls.",
+    "releaseDate": "2026-08-20T12:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-poongodi/detail/213252"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Pudhu Vasantham",
+    "contentId": "167808",
+    "season": 1,
+    "episode": 966,
+    "episodeTitle": "E966 - Aug 20, 2026",
+    "description": "Raised as a single child, Selvi longs for the loving embrace & heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds & win over her husband's large family.",
+    "releaseDate": "2026-08-20T13:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-pudhu-vasantham/detail/167808"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Singappenne",
     "contentId": "175178",
     "season": 1,
@@ -53,5 +75,16 @@
     "description": "Born into a humble & rustic background troubled by familial & financial concerns, Anandhi takes it upon herself to leave home & fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit. Be the first to watch your favourite serial, Singapenne – early access only on Sun NXT.",
     "releaseDate": "2026-08-20T12:00:00.000Z",
     "url": "https://www.sunnxt.com/suntv-tamil-serial-singappenne/detail/175178"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Thulasi",
+    "contentId": "250767",
+    "season": 1,
+    "episode": 87,
+    "episodeTitle": "E87 - Aug 20, 2026",
+    "description": "A powerful tale of two sisters, Thulasi and Thendral, whose bond is tested by betrayal, greed, and dark intentions. United by courage and love, they rise strong to expose the truth in their battle against injustice.",
+    "releaseDate": "2026-08-20T12:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-thulasi/detail/250767"
   }
 ]
