@@ -56,6 +56,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Lakshmi Tamil",
+    "contentId": "186424",
+    "season": 1,
+    "episode": 728,
+    "episodeTitle": "E728 - Aug 25, 2026",
+    "description": "Maha, her family’s financial backbone, marries Selvam, on condition that she will continue to support her family financially even after marriage. Post which they confront challenges that put the family’s peace and happiness to test.",
+    "releaseDate": "2026-08-25T15:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-lakshmi/detail/186424"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Malli Tamil",
     "contentId": "190040",
     "season": 1,
