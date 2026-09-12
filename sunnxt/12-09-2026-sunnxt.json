@@ -12,6 +12,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Kitchen Galatta",
+    "contentId": "250946",
+    "season": 1,
+    "episode": 107,
+    "episodeTitle": "E107 - Sep 12, 2026",
+    "description": "Experience a unique cooking show packed with chef-inspired dishes, medicinal recipes, village-style cooking, and celebrity guests, all woven into exciting and unique weekly themes — with opportunities for viewers to participate too.",
+    "releaseDate": "2026-09-12T11:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-kitchen-galatta/detail/250946"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Malli Tamil",
     "contentId": "190040",
     "season": 1,
@@ -31,6 +42,17 @@
     "description": "Aathirai's unyielding passion for helping others constantly lands her in trouble, while Prabhu's self-serving actions show disregard for his own family's well-being. Follow their tumultuous journeys as fate brings them together in marriage.",
     "releaseDate": "2026-09-12T12:00:00.000Z",
     "url": "https://www.sunnxt.com/suntv-tamil-serial-marumagal/detail/193259"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Poongodi",
+    "contentId": "213252",
+    "season": 1,
+    "episode": 486,
+    "episodeTitle": "E486 - Sep 12, 2026",
+    "description": "Poongodi rises above her father's male chauvinism, intent on proving herself & pursuing a college education. Her path crosses with Saravanan, a naïve young man who blindly trusts his manipulative stepmother. Uncover the fate of the two kindred souls.",
+    "releaseDate": "2026-09-12T12:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-poongodi/detail/213252"
   },
   {
     "channel": "SUN_TV",
