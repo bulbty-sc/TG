@@ -1,6 +1,48 @@
 [
   {
     "channel": "STAR_VIJAY",
+    "title": "Pandian Stores 2",
+    "showId": "1260000603",
+    "contentId": "1641034952",
+    "season": 2,
+    "episode": 895,
+    "episodeTitle": "Raji Rejects Senthil",
+    "description": "Raji insists Senthil shouldn't partner with Kathir in the business. Later, Kathir tries to make peace, while Raji stands firm in her decision and asks Senthil to forgive him.",
+    "airDate": "20 Sep 2026",
+    "duration": "19m",
+    "url": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603",
+    "episodeUrl": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603/raji-rejects-senthil/1641034952/watch?ulp_id=1260000603"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Ayyanar Thunai",
+    "showId": "1271388570",
+    "contentId": "1641034938",
+    "season": 1,
+    "episode": 517,
+    "episodeTitle": "Chandayatha's Family Departs",
+    "description": "As Chandayatha's family leaves, her dad asks Cheran to protect her. Later, Thenmozhi asks Cheran to take Chandayatha to a temple, where they enjoy quiet time.",
+    "airDate": "20 Sep 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570",
+    "episodeUrl": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570/chandayathas-family-departs/1641034938/watch?ulp_id=1271388570"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Siragadikka Aasai",
+    "showId": "1260129356",
+    "contentId": "1641034916",
+    "season": 1,
+    "episode": 1122,
+    "episodeTitle": "Nachiyar Stuns Vijaya",
+    "description": "Meena shares a travel safety tip and Muthu praises her. Later, Nachiyar saves Meena and hits Vijaya with neem leaves, claiming she is possessed by her mother-in-law.",
+    "airDate": "20 Sep 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356",
+    "episodeUrl": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356/nachiyar-stuns-vijaya/1641034916/watch?ulp_id=1260129356"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Neeya Naana",
     "showId": "1584",
     "contentId": "1641034805",
@@ -12,5 +54,33 @@
     "duration": "1h 2m",
     "url": "https://www.hotstar.com/in/shows/neeya-naana/1584",
     "episodeUrl": "https://www.hotstar.com/in/shows/neeya-naana/1584/how-jealousy-shapes-female-bonds/1641034805/watch?ulp_id=1584"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Super Singer Junior",
+    "showId": "1535",
+    "contentId": "1641034947",
+    "season": 11,
+    "episode": 39,
+    "episodeTitle": "A Night of Unforgettable Music",
+    "description": "Special guest Venkat Prabhu visits for a magical night of music! Featuring Golden Moon honours, heartwarming parent tributes, and stellar duets with legendary singers.",
+    "airDate": "20 Sep 2026",
+    "duration": "1h 11m",
+    "url": "https://www.hotstar.com/in/shows/super-singer-junior/1535",
+    "episodeUrl": "https://www.hotstar.com/in/shows/super-singer-junior/1535/a-night-of-unforgettable-music/1641034947/watch?ulp_id=1535"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Connect Link Pannu Win Pannu",
+    "showId": "1271655443",
+    "contentId": "1641034872",
+    "season": 1,
+    "episode": 12,
+    "episodeTitle": "A Thrilling Chase for Victory",
+    "description": "With clever clues and smart connections, the 'Onna Irukka Kaththukanum' team raises the stakes. The Chase round turns thrilling as everyone awaits which team wins the round.",
+    "airDate": "20 Sep 2026",
+    "duration": "1h 5m",
+    "url": "https://www.hotstar.com/in/shows/connect-link-pannu-win-pannu/1271655443",
+    "episodeUrl": "https://www.hotstar.com/in/shows/connect-link-pannu-win-pannu/1271655443/a-thrilling-chase-for-victory/1641034872/watch?ulp_id=1271655443"
   }
 ]
