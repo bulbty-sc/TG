@@ -1,6 +1,17 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Annamalai Kudumbam",
+    "contentId": "0-6-4z5852763",
+    "season": 1,
+    "episode": 259,
+    "episodeTitle": "Annamalai's Decision Triggers a Turmoil",
+    "description": "Annamalai's decision triggers a family clash as Sundararajan speaks against Vennila.",
+    "releaseDate": "2026-09-21T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/annamalai-kudumbam/0-6-4z5852763"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Ayali",
     "contentId": "0-6-4z5761653",
     "season": 1,
@@ -20,6 +31,17 @@
     "description": "After the surgery, Dheenadayalan rekindles the past after eating the food brought by Muthazhagu.",
     "releaseDate": "2026-09-21T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/chinnan-siru-kiliye/0-6-4z5789559"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Idhayam",
+    "contentId": "0-6-4z5419404",
+    "season": 1,
+    "episode": 1107,
+    "episodeTitle": "Sharada Spots Bharathi",
+    "description": "Sharada spots Bharathi and tries to inform her about her whereabouts.",
+    "releaseDate": "2026-09-21T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -53,6 +75,17 @@
     "description": "Sreeja plots trouble for Isai but Vishal steps in to protect Isai.",
     "releaseDate": "2026-09-21T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/paarijatham/0-6-4z5808694"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Salangai Oli",
+    "contentId": "0-6-4z5806421",
+    "season": 1,
+    "episode": 706,
+    "episodeTitle": "Bhoomi Fulfils Aakash's Wish",
+    "description": "Bhoomi dances with Aakash and fuflfils his wish. Chandra watches them on the television.",
+    "releaseDate": "2026-09-21T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/salangai-oli/0-6-4z5806421"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -97,5 +130,16 @@
     "description": "Appatha hatches a plan to sabotage the festivities and seize the family property.",
     "releaseDate": "2026-09-21T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/vaagai-sooda-vaa/0-6-4z5891606"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Varisu",
+    "contentId": "0-6-4z5778545",
+    "season": 1,
+    "episode": 388,
+    "episodeTitle": "Will Anita and Sethu Marry?",
+    "description": "On the pretext of taking Sethu to a function, Varshini brings him to the temple to wed Anita.",
+    "releaseDate": "2026-09-21T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
   }
 ]
