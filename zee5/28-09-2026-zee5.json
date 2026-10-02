@@ -1,6 +1,17 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Annamalai Kudumbam",
+    "contentId": "0-6-4z5852763",
+    "season": 1,
+    "episode": 265,
+    "episodeTitle": "Uthaman Joins Hands With Vaanmathi",
+    "description": "Uthaman hides the tender file and conspires with Vaanmathi to defeat Vennila.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/annamalai-kudumbam/0-6-4z5852763"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Ayali",
     "contentId": "0-6-4z5761653",
     "season": 1,
@@ -20,6 +31,17 @@
     "description": "Karna condemns Vishwa for trying to attack Indhu, who defends Chithra.",
     "releaseDate": "2026-09-28T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/chinnan-siru-kiliye/0-6-4z5789559"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Idhayam",
+    "contentId": "0-6-4z5419404",
+    "season": 1,
+    "episode": 1116,
+    "episodeTitle": "Mithra Faces Embarrasement",
+    "description": "Bharathi threatens and teaches Mithra a lesson that leaves her embarrassed.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -53,6 +75,17 @@
     "description": "Vijayaraghavan watches a video in court where the goon testifies against Subhadra",
     "releaseDate": "2026-09-28T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/paarijatham/0-6-4z5808694"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Salangai Oli",
+    "contentId": "0-6-4z5806421",
+    "season": 1,
+    "episode": 712,
+    "episodeTitle": "Aakash Threatens Bhoomi",
+    "description": "Aakash threatens Bhoomi when she refuses to sign an agreement.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/salangai-oli/0-6-4z5806421"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -97,5 +130,16 @@
     "description": "Meenakshi feels bad when Appatha mocks Jeeva, prompting her to make a firm decision.",
     "releaseDate": "2026-09-28T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/vaagai-sooda-vaa/0-6-4z5891606"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Varisu",
+    "contentId": "0-6-4z5778545",
+    "season": 1,
+    "episode": 394,
+    "episodeTitle": "Maya Goes With Cibi On His Bike",
+    "description": "Janakambal questions Tamil, who remains calm when Maya goes with Cibi on the bike.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
   }
 ]
