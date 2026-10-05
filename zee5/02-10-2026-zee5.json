@@ -1,6 +1,83 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Ayali",
+    "contentId": "0-6-4z5761653",
+    "season": 1,
+    "episode": 418,
+    "episodeTitle": "Ayali Rescues John",
+    "description": "Kapilan briefs Varma when their plan fails. Ayali steps in and rescues John.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/ayali/0-6-4z5761653"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Chinnan Siru Kiliye",
+    "contentId": "0-6-4z5789559",
+    "season": 1,
+    "episode": 317,
+    "episodeTitle": "Kripakaran's Plan To Bring Karna Home",
+    "description": "To bring Karna back home, Kripakaran stirs old memories and attempts to persuade him to return",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/chinnan-siru-kiliye/0-6-4z5789559"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Idhayam",
+    "contentId": "0-6-4z5419404",
+    "season": 1,
+    "episode": 1120,
+    "episodeTitle": "Idhayam - October 02, 2026",
+    "description": "Bharathi donates Vasu’s heart after his sudden death, giving Aadhi a new lease of life. When Aadhi goes to thank her, he feels an instant connection with her. Will this be the beginning of a new bond?",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Karthigai Deepam",
+    "contentId": "0-6-4z5262158",
+    "season": 1,
+    "episode": 1340,
+    "episodeTitle": "Parmeshwari Exposes Muthuvel",
+    "description": "At the village council, Parameshwari's exposes Muthuvel's crimes.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/karthigai-deepam/0-6-4z5262158"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Karthigai Deepam",
+    "contentId": "0-6-4z5262158",
+    "season": 1,
+    "episode": 1341,
+    "episodeTitle": "Karthigai Deepam - October 02, 2026",
+    "description": "Deepa, a talented singer, faces discrimination as she's dusky. But meeting Karthikeyan, a successful businessman, changes her life drastically. Will Deepa be able to stand tall against societal norms?",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/karthigai-deepam/0-6-4z5262158"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Paarijatham",
+    "contentId": "0-6-4z5808694",
+    "season": 1,
+    "episode": 323,
+    "episodeTitle": "Paarijatham - October 02, 2026",
+    "description": "After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra’s strict astrological beliefs.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/paarijatham/0-6-4z5808694"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Salangai Oli",
+    "contentId": "0-6-4z5806421",
+    "season": 1,
+    "episode": 716,
+    "episodeTitle": "Chandra Stops Bhoomi From Leaving",
+    "description": "Akash comes to take Bhoomi, but Chandra argues with Sharada and stops Bhoomi from going.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/salangai-oli/0-6-4z5806421"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Samanthi",
     "contentId": "0-6-4z5975830",
     "season": 1,
@@ -9,5 +86,49 @@
     "description": "A humble village girl’s bold move to the city reshapes her destiny.",
     "releaseDate": "2026-10-02T00:00:00",
     "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Sandhya Raagam",
+    "contentId": "0-6-4z5437832",
+    "season": 1,
+    "episode": 998,
+    "episodeTitle": "Parvathi's New Plan",
+    "description": "Using Raghuram's weakness to her advantage, Parvathi initiates her next move from",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/sandhya-raagam/0-6-4z5437832"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Thirumangalyam",
+    "contentId": "0-6-4z5846408",
+    "season": 1,
+    "episode": 245,
+    "episodeTitle": "Lalitha's Request to Thiru",
+    "description": "Lalitha's request leaves Thiru in a dilemma, while Gajendran desperately searches for Lakshmi.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/thirumangalyam/0-6-4z5846408"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vaagai Sooda Vaa",
+    "contentId": "0-6-4z5891606",
+    "season": 1,
+    "episode": 221,
+    "episodeTitle": "Akhila's Act To Take Money",
+    "description": "Akhila stages a new drama over the phone in a bid to get money from Mano.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vaagai-sooda-vaa/0-6-4z5891606"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Varisu",
+    "contentId": "0-6-4z5778545",
+    "season": 1,
+    "episode": 398,
+    "episodeTitle": "Tamil Confronts Anita",
+    "description": "Thenu argues with Prabhu over Selvarathanam, while Tamil confronts Anita.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
   }
 ]
