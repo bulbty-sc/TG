@@ -1,6 +1,17 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Annamalai Kudumbam",
+    "contentId": "0-6-4z5852763",
+    "season": 1,
+    "episode": 271,
+    "episodeTitle": "Pavithra Faces Uthaman's Wrath",
+    "description": "Pavithra faces Uthaman's wrath, while Annamalai puts Vaanmathi and Uthaman in their place.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/annamalai-kudumbam/0-6-4z5852763"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Ayali",
     "contentId": "0-6-4z5761653",
     "season": 1,
@@ -20,6 +31,17 @@
     "description": "Indhu demands justice for Karna. So, Kripakaran invites Karna and Indhu into the house.",
     "releaseDate": "2026-10-05T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/chinnan-siru-kiliye/0-6-4z5789559"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Idhayam",
+    "contentId": "0-6-4z5419404",
+    "season": 1,
+    "episode": 1122,
+    "episodeTitle": "Will Revathi Help Aadhi?",
+    "description": "Tamil and Adithya are sad by Bharathi's arrest. Aadhi tries to meet Revathi to withdraw the case.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -56,6 +78,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Salangai Oli",
+    "contentId": "0-6-4z5806421",
+    "season": 1,
+    "episode": 718,
+    "episodeTitle": "Sharada Suspects Aakash",
+    "description": "Bhoomi reassures Sharada, who susoects Aakash and Tara's proximity. Bhoomi confronts Aakash.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/salangai-oli/0-6-4z5806421"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Samanthi",
     "contentId": "0-6-4z5975830",
     "season": 1,
@@ -86,5 +119,16 @@
     "description": "Thiru seeks Lakshmi's help when Divya invites him to meet Lalitha.",
     "releaseDate": "2026-10-05T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/thirumangalyam/0-6-4z5846408"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Varisu",
+    "contentId": "0-6-4z5778545",
+    "season": 1,
+    "episode": 400,
+    "episodeTitle": "Varshini's Allegations Against Sethu",
+    "description": "Cibi thrashes goons for misbehaving with Varshini. Varshini accuses Sethu of being careless.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
   }
 ]
