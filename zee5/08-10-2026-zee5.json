@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 31,
+    "episodeTitle": "A News Disturbs Bhanumathi",
+    "description": "Thangarasa escapes from captivity after distracting the goons, while a news disturbs Bhanumathi.",
+    "releaseDate": "2026-10-08T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 32,
+    "episodeTitle": "Nandhu Refuses to Accept Sravya",
+    "description": "Indra's death shatters Ahalya's dreams, until destiny brings Gowtham into her life.",
+    "releaseDate": "2026-10-08T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 64,
+    "episodeTitle": "Arasi Takes A Decision Against Katturaja",
+    "description": "A humble village girl’s bold move to the city reshapes her destiny.",
+    "releaseDate": "2026-10-08T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Tamil seeks the karate instructor's help to strengthen the bond between Sethu and Varshini.",
     "releaseDate": "2026-10-08T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 31,
+    "episodeTitle": "Sarika's Plan To Frame Vasudha",
+    "description": "Chandrika buys a necklace for Dev's bride, which Sarika steals and hides it in Vasudha's apron.",
+    "releaseDate": "2026-10-08T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 32,
+    "episodeTitle": "Chandrika Observes Varalakshmi Vratham",
+    "description": "Chandrika observes Varalaskshmi Vratham that Sarika tries to uncover.",
+    "releaseDate": "2026-10-08T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

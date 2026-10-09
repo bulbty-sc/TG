@@ -34,6 +34,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 10,
+    "episodeTitle": "Ahalya Fears to Learn About Bullabhai",
+    "description": "Subhadra reunites Aditi and Gautham. Ahalya learns that Bullabhai is searching for her.",
+    "releaseDate": "2026-09-25T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +100,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 55,
+    "episodeTitle": "Arasi Strikes a Deal With Roja",
+    "description": "Arasi strikes a deal with Roja, while Samanthi condemns Roja's act.",
+    "releaseDate": "2026-09-25T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +152,16 @@
     "description": "Tamil is upset when Cibi fails to notice her. Prabhu plots to win Thenu's love.",
     "releaseDate": "2026-09-25T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 10,
+    "episodeTitle": "Chandrika Sets A Condition to Hanumant",
+    "description": "Chandrika realises her mistake and lets Hanumant stay in the outhouse but sets a condition.",
+    "releaseDate": "2026-09-25T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

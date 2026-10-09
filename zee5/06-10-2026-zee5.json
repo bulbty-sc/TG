@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 27,
+    "episodeTitle": "Bhanumathi's Decision Shatters Subhadra",
+    "description": "Ahalya tries to rescue Gautham from police custody, while Bhanumathi's decision shatters Subhadra.",
+    "releaseDate": "2026-10-06T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 28,
+    "episodeTitle": "Adithi Bails Out Gautham",
+    "description": "Adithi bails out Gautham from prison, while Subhadra is shattered to learn about Arjun's accident.",
+    "releaseDate": "2026-10-06T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 62,
+    "episodeTitle": "An Incident Enrages Arasi",
+    "description": "The crown falls on Samanthi's head when she sits on the throne meant for Roja, leaving Arasi furious.",
+    "releaseDate": "2026-10-06T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Cibi takes Isai out and spends time with her, but panics when she goes missing.",
     "releaseDate": "2026-10-06T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 27,
+    "episodeTitle": "Karishma Berates Vasudha",
+    "description": "Karishma berates Vasudha for failing to prepare the dish she had promised to her overseas clients.",
+    "releaseDate": "2026-10-06T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 28,
+    "episodeTitle": "Chandriks Punishes Vasudha",
+    "description": "Chandrika is furious when Dev misses the order and punishes Vasudha.",
+    "releaseDate": "2026-10-06T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

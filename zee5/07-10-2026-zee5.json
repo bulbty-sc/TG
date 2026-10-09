@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 29,
+    "episodeTitle": "Gautham's Return Pleases Bhanumathi",
+    "description": "Ahalya rushes Arjun to the hospital and prays for his recovery. Gautham's return pleases Bhanumathi.",
+    "releaseDate": "2026-10-07T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 30,
+    "episodeTitle": "Subhadra Supports Ahalya",
+    "description": "Bhanumathi stops Ahalya from donating blood and creates a scene, but Subhadra supports Ahalya.",
+    "releaseDate": "2026-10-07T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 63,
+    "episodeTitle": "Arjun Confronts Samanthi",
+    "description": "Roja cleverly plots her escape from Katturaja, while Arjun confronts Samanthi to uncover the truth.",
+    "releaseDate": "2026-10-07T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Selvarathinam donates blood to save Isai, but Tamil fails to notice him in the hospital.",
     "releaseDate": "2026-10-07T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 29,
+    "episodeTitle": "Vasudha Reveals Her Plan To Avinash and Dev",
+    "description": "When Meenal does not show up for the Navratri event, Vasudha shares her plan with Avinash and Dev.",
+    "releaseDate": "2026-10-07T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 30,
+    "episodeTitle": "Dev Misunderstands Vasudha",
+    "description": "Dev misunderstands Vasudha when she reveals Karishma's deceit to Avinash and scolds her.",
+    "releaseDate": "2026-10-07T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

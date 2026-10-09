@@ -23,6 +23,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 11,
+    "episodeTitle": "Ahalya Apologises to Indra",
+    "description": "Ahalya apologises to Indra when she spots him in the miltary camp.",
+    "releaseDate": "2026-09-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 12,
+    "episodeTitle": "Indra Helps Ahalya",
+    "description": "Ahalya is upset by Thayamma's deteriorating health and turns to Indra, who helps her.",
+    "releaseDate": "2026-09-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -141,5 +163,27 @@
     "description": "Tamil gets injured while saving Cibi from a fall, but this instills a fear in Cibi.",
     "releaseDate": "2026-09-26T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 11,
+    "episodeTitle": "Sarika Abandons Vasudha's Pet",
+    "description": "Sarika abandons Vasudha's pet dog on the street, leaving Vasudha distraught as she searches for it.",
+    "releaseDate": "2026-09-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 12,
+    "episodeTitle": "Vasudha Saves Dev",
+    "description": "Vasudha saves Dev from a fall. Chandrika invites Kavitha to discuss a marriage alliance.",
+    "releaseDate": "2026-09-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

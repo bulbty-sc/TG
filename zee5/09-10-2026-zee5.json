@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 33,
+    "episodeTitle": "Gautham Supports Ahalya",
+    "description": "Gautham supports Ahalya when she decides to get Nandhu and Sravya's married.",
+    "releaseDate": "2026-10-09T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 34,
+    "episodeTitle": "Adithi's Act Shatters Yamini",
+    "description": "Adithi's act shatters Yamini, while the priest's advice prompts Bhanumathi to change her decision.",
+    "releaseDate": "2026-10-09T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 65,
+    "episodeTitle": "Samanthi - October 09, 2026",
+    "description": "A humble village girl’s bold move to the city reshapes her destiny.",
+    "releaseDate": "2026-10-09T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Hurt by her classmates' taunts at school, Isai finds comfort and encouragement from Cibi.",
     "releaseDate": "2026-10-09T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 33,
+    "episodeTitle": "The Family Discovers The Truth",
+    "description": "The family discovers the truth when Vasudha enters Chandrika's room.",
+    "releaseDate": "2026-10-09T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 34,
+    "episodeTitle": "Karishma Grows Anxious",
+    "description": "Karishma grows worried when Avinash plans to reveal her connection with Akshay to Chandrika.",
+    "releaseDate": "2026-10-09T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

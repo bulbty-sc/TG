@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 19,
+    "episodeTitle": "Gautham Saves Ahalya",
+    "description": "Gautham learns that Ahalya is preganant and saves her from taking a drastic step.",
+    "releaseDate": "2026-10-01T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 20,
+    "episodeTitle": "Gautham Marries Ahalya",
+    "description": "Gautham marries Ahalya and causes a commotion within the family.",
+    "releaseDate": "2026-10-01T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 59,
+    "episodeTitle": "Samanthi Reveal The Truth To Arjun",
+    "description": "Samanthi reveals the truth to Arjun about Roja's family.",
+    "releaseDate": "2026-10-01T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Cibi bakes a cake for Tamil, but feels afraid to confess his love.",
     "releaseDate": "2026-10-01T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 19,
+    "episodeTitle": "Guruji's Forecast Alarms Chandrika",
+    "description": "Chandrika grows concerned after hearing Guruji's prediction about Karishma and Avinash's horoscopes.",
+    "releaseDate": "2026-10-01T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 20,
+    "episodeTitle": "Chandrika Hires Vasudha",
+    "description": "Dev is Delighted as Chandrika Decides to Offer Vasudha a Job for Saving Pratap's Life",
+    "releaseDate": "2026-10-01T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

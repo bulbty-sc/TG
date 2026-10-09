@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 21,
+    "episodeTitle": "Gautham Stops Ahalya From Leaving",
+    "description": "Heartbroken, Ahalya decides to walk away from Gautham's life, but he tries to stop her.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 22,
+    "episodeTitle": "Gautham Takes Ahalya Into the House",
+    "description": "Despite family opposition, Gautham takes Ahalya into the house.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 60,
+    "episodeTitle": "Kodishwaran Assures Eshwari",
+    "description": "To obtain Rani's necklace, Samanthi spins a tale to Arasi, while Kodishwaran assures Eshwari.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Thenu argues with Prabhu over Selvarathanam, while Tamil confronts Anita.",
     "releaseDate": "2026-10-02T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 21,
+    "episodeTitle": "Avinash's Gift to Vasudha",
+    "description": "Avinash gifts a watch to Vasudha, but Karishma gets annoyed and argues with him.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 22,
+    "episodeTitle": "Sarika Plots Against Vasudha",
+    "description": "Vasudha prepares the prasad for the pooja, while Sarika hatches a plan to spoil it.",
+    "releaseDate": "2026-10-02T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 13,
+    "episodeTitle": "Indra Confesses His Love to Ahalya",
+    "description": "Indra confesses his love to Ahalya and is delighted when she accepts it.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 14,
+    "episodeTitle": "Yamini Plots Against Indra",
+    "description": "Arjun gets nervous when Yamini causes chaos at Indira's engagement.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 56,
+    "episodeTitle": "Mahendran Opposes Arasi's Decision",
+    "description": "Samanthi plans to stall Roja's wedding plans, while Mahendran opposes Arasi's decision.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Janakambal questions Tamil, who remains calm when Maya goes with Cibi on the bike.",
     "releaseDate": "2026-09-28T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 13,
+    "episodeTitle": "Sarika Ruins The Food",
+    "description": "Vasudha cooks food at Chandrika's house, instead of Savitri, but Sarika ruins it.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 14,
+    "episodeTitle": "Karishma's Act Baffles Sarika",
+    "description": "Sarika is baffled when Karishma praises the food, while she struggles to eat it.",
+    "releaseDate": "2026-09-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 15,
+    "episodeTitle": "Indra and Ahalya Get Trapped",
+    "description": "Indra spends time with Ahalya, the two venture into the forest and end up stranded.",
+    "releaseDate": "2026-09-29T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 16,
+    "episodeTitle": "Gautham Pacifies Subhadra",
+    "description": "Gautham pacifies Subhadra when she tells him about Indra's vow to Bhanumathi.",
+    "releaseDate": "2026-09-29T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 57,
+    "episodeTitle": "Samanthi Threatens Roja",
+    "description": "Roja is disturbed by Samanthi's threat, while Arasi consults a swami regarding Roja's wedding.",
+    "releaseDate": "2026-09-29T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Cibi buys gifts and a new car for Tamil, but her indifferent reaction disappoints him.",
     "releaseDate": "2026-09-29T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 15,
+    "episodeTitle": "Vasudha Gets In Trouble",
+    "description": "Dev looks for Vasudha when she leaves the house. Elsewhere, Vasudha gets in trouble.",
+    "releaseDate": "2026-09-29T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 16,
+    "episodeTitle": "Dev Rescues Vasudha",
+    "description": "Dev thrashes the goons to rescue Vasudha, while  Sarika spreads rumours about Dev and Vasudha.",
+    "releaseDate": "2026-09-29T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

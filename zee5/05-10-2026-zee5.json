@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 25,
+    "episodeTitle": "Shravya's Decision Shatters The Family",
+    "description": "Shravya's suicide attempt shocks the family. Arjun probes the Kashmir incident.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 26,
+    "episodeTitle": "Yamini Files A Complaint Against Gautham",
+    "description": "Arjun tries to probe into the  Kashmir incident. Yamini files a police complaint against Gautham.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 61,
+    "episodeTitle": "Aadhav Admires Roja",
+    "description": "Roja ignores Samanthi's warning, while Aadhav is mesmerised by her beauty as she appears dressed as a queen.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Cibi thrashes goons for misbehaving with Varshini. Varshini accuses Sethu of being careless.",
     "releaseDate": "2026-10-05T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 25,
+    "episodeTitle": "Vasudha Discovers Karishma's Decepti",
+    "description": "Vasudha learns the truth after seeing Karishma with Akshay and rushes to warn Avinash.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 26,
+    "episodeTitle": "Karishma Sets A Task For Vasudha",
+    "description": "Vasudha and Savitri are thrown into a dilemma when Karishma orders a dish for a foreign client.",
+    "releaseDate": "2026-10-05T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]

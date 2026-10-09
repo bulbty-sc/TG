@@ -34,6 +34,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 17,
+    "episodeTitle": "Subhadra Faces A Dilemma",
+    "description": "A  truth about Chandini stuns Adithi, while Subhadra is in a fix about Indra's wedding arrangements.",
+    "releaseDate": "2026-09-30T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "Gautham Struggles To Rescue Indra",
+    "description": "Gautham struggles to rescue Indra, but Indra's ultimate sacrifice leaves everyone in tears.",
+    "releaseDate": "2026-09-30T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -89,6 +111,17 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 58,
+    "episodeTitle": "Samanthi Looks for the Necklace",
+    "description": "Samanthi enters Roja's room in search of the necklace but hides when Roja arrives.",
+    "releaseDate": "2026-09-30T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Sandhya Raagam",
     "contentId": "0-6-4z5437832",
     "season": 1,
@@ -130,5 +163,27 @@
     "description": "Unaware of the trap laid for him, Sethu talks to Anita, while Cibi bakes a cake for Tamil.",
     "releaseDate": "2026-09-30T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 17,
+    "episodeTitle": "Dev Sympathises With Vasudha",
+    "description": "Citing Chandrika's anger, Dev sympathises with Vasudha and hesitates to ask for a job for her.",
+    "releaseDate": "2026-09-30T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "Vasudha's Cherished Dream",
+    "description": "Vasudha dreams of Chandrika appointing her as the cook, but her dreams are soon shattered.",
+    "releaseDate": "2026-09-30T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]
