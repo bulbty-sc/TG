@@ -1,6 +1,17 @@
 [
   {
     "channel": "SUN_TV",
+    "showName": "Abirami",
+    "contentId": "276949",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "E18 - Oct 17, 2026",
+    "description": "Bound by chores, conflicts and criticism, Abirami, a devoted wife and mother, loses herself while keeping her family together. When life pushes her to the brink, she finds strength in her daughter and the will to reclaim her identity and dreams.",
+    "releaseDate": "2026-10-17T13:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-abirami/detail/276949"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Ethir Neechal Thodargirathu",
     "contentId": "209584",
     "season": 1,
@@ -23,6 +34,17 @@
   },
   {
     "channel": "SUN_TV",
+    "showName": "Kurinji",
+    "contentId": "276948",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "E18 - Oct 17, 2026",
+    "description": "Akila sacrifices everything for her siblings until a betrayal forces her into an unexpected marriage, where she confronts Jaya, her husband Thamizh's manipulative sister-in-law. Can Akila's unwavering love protect her siblings and save her marriage?",
+    "releaseDate": "2026-10-17T13:00:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-kurinji/detail/276948"
+  },
+  {
+    "channel": "SUN_TV",
     "showName": "Malli Tamil",
     "contentId": "190040",
     "season": 1,
@@ -42,5 +64,16 @@
     "description": "Poongodi rises above her father's male chauvinism, intent on proving herself & pursuing a college education. Her path crosses with Saravanan, a naïve young man who blindly trusts his manipulative stepmother. Uncover the fate of the two kindred souls.",
     "releaseDate": "2026-10-17T12:00:00.000Z",
     "url": "https://www.sunnxt.com/suntv-tamil-serial-poongodi/detail/213252"
+  },
+  {
+    "channel": "SUN_TV",
+    "showName": "Thulasi",
+    "contentId": "250767",
+    "season": 1,
+    "episode": 136,
+    "episodeTitle": "E136 - Oct 17, 2026",
+    "description": "A powerful tale of two sisters, Thulasi and Thendral, whose bond is tested by betrayal, greed, and dark intentions. United by courage and love, they rise strong to expose the truth in their battle against injustice.",
+    "releaseDate": "2026-10-17T12:30:00.000Z",
+    "url": "https://www.sunnxt.com/suntv-tamil-serial-thulasi/detail/250767"
   }
 ]
