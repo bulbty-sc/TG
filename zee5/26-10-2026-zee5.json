@@ -1,6 +1,17 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Idhayam",
+    "contentId": "0-6-4z5419404",
+    "season": 1,
+    "episode": 1138,
+    "episodeTitle": "The Goons Hide Tamizh in a Box",
+    "description": "Aadhi looks for Tamizh, while the goons hide her in a box.",
+    "releaseDate": "2026-10-26T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Varisu",
     "contentId": "0-6-4z5778545",
     "season": 1,
