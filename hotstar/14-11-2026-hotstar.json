@@ -29,6 +29,20 @@
   },
   {
     "channel": "STAR_VIJAY",
+    "title": "Kanmani Anbudan",
+    "showId": "1271328975",
+    "contentId": "1641041306",
+    "season": 1,
+    "episode": 657,
+    "episodeTitle": "Anbu Protests for Kanmani",
+    "description": "Anbu protests on stage, demanding a valid reason for Kanmani's rejection. The judges relent and give her a chance, and Kanmani impresses them with her presentation.",
+    "airDate": "14 Nov 2026",
+    "duration": "21m",
+    "url": "https://www.hotstar.com/in/shows/kanmani-anbudan/1271328975",
+    "episodeUrl": "https://www.hotstar.com/in/shows/kanmani-anbudan/1271328975/anbu-protests-for-kanmani/1641041306/watch?ulp_id=1271328975"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Pandian Stores 2",
     "showId": "1260000603",
     "contentId": "1641041301",
@@ -40,5 +54,47 @@
     "duration": "20m",
     "url": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603",
     "episodeUrl": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603/palanivel-becomes-a-father/1641041301/watch?ulp_id=1260000603"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Siragadikka Aasai",
+    "showId": "1260129356",
+    "contentId": "1641041280",
+    "season": 1,
+    "episode": 1175,
+    "episodeTitle": "Muthu Outsmarts His Competitor",
+    "description": "Selvam alerts Muthu about Raghu's suspected role in the cancelled bookings. Muthu approaches Raghu for help buying a used bus, hoping to build a friendly relationship.",
+    "airDate": "14 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356",
+    "episodeUrl": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356/muthu-outsmarts-his-competitor/1641041280/watch?ulp_id=1260129356"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Suttum Vizhi Sudare",
+    "showId": "1271518434",
+    "contentId": "1641041308",
+    "season": 1,
+    "episode": 262,
+    "episodeTitle": "Vetri Suffers an Attack",
+    "description": "Abinaya panics over the name board. After Maran's men attack Vetri, Shanmugam opposes his job at Sandhya's office while Sudar and Abinaya quietly worry over his recovery.",
+    "airDate": "14 Nov 2026",
+    "duration": "19m",
+    "url": "https://www.hotstar.com/in/shows/suttum-vizhi-sudare/1271518434",
+    "episodeUrl": "https://www.hotstar.com/in/shows/suttum-vizhi-sudare/1271518434/vetri-suffers-an-attack/1641041308/watch?ulp_id=1271518434"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Thendrale Mella Pesu",
+    "showId": "1271423778",
+    "contentId": "1641041260",
+    "season": 1,
+    "episode": 425,
+    "episodeTitle": "Kalamma Makes a Secret Deal",
+    "description": "Ilamathi avoids revealing the DNA results to Viji and Paraman. Kalamma takes a bribe from Pasupathy to help him obtain the pond desilting contract from Paraman.",
+    "airDate": "14 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778",
+    "episodeUrl": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778/kalamma-makes-a-secret-deal/1641041260/watch?ulp_id=1271423778"
   }
 ]
