@@ -15,6 +15,20 @@
   },
   {
     "channel": "STAR_VIJAY",
+    "title": "Bigg Boss",
+    "showId": "14455",
+    "contentId": "1271700812",
+    "season": 10,
+    "episode": 71,
+    "episodeTitle": "BBTam Day 70: The Top 10 of S10",
+    "description": "VJS grills Jason over his failed captaincy and physical clash, issuing a final warning. Amidst emotional moments and a double eviction, Season 10 celebrates its official top 10.",
+    "airDate": "15 Nov 2026",
+    "duration": "",
+    "url": "https://www.hotstar.com/in/shows/bigg-boss/14455",
+    "episodeUrl": "https://www.hotstar.com/in/shows/bigg-boss/14455/bbtam-day-70-the-top-10-of-s10/1271700812/watch?ulp_id=14455"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Connect Link Pannu Win Pannu",
     "showId": "1271655443",
     "contentId": "1641041334",
@@ -65,7 +79,7 @@
     "episodeTitle": "Grand Finale",
     "description": "The ultimate battle begins as the six finalists give everything they have in one last face-off. With the stakes higher than ever, who will rise to the top and seize the trophy?",
     "airDate": "15 Nov 2026",
-    "duration": "",
+    "duration": "5h 0m",
     "url": "https://www.hotstar.com/in/shows/super-singer-junior/1535",
     "episodeUrl": "https://www.hotstar.com/in/shows/super-singer-junior/1535/grand-finale/1271723148/watch?ulp_id=1535"
   }
