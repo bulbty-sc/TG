@@ -1,6 +1,34 @@
 [
   {
     "channel": "STAR_VIJAY",
+    "title": "Ayyanar Thunai",
+    "showId": "1271388570",
+    "contentId": "1641041789",
+    "season": 1,
+    "episode": 575,
+    "episodeTitle": "Cheran's Fatherly Love",
+    "description": "Chandayatha and Nadesan find a heartbroken Cheran at a temple after Chozhan slaps him. Cheran expresses his fatherly love for Pallavan, while Pandian cheers him.",
+    "airDate": "19 Nov 2026",
+    "duration": "19m",
+    "url": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570",
+    "episodeUrl": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570/cherans-fatherly-love/1641041789/watch?ulp_id=1271388570"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Azhagae Azhagu",
+    "showId": "1271525502",
+    "contentId": "1641041768",
+    "season": 1,
+    "episode": 216,
+    "episodeTitle": "Lakshmi's Web of Lies",
+    "description": "Lakshmi covers up a movie trip as a temple visit for Ragavan's sake. Revathi backs her by scaring Thangaraj about his horoscope, leaving Bagyaraj proud of the women's unity.",
+    "airDate": "19 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/azhagae-azhagu/1271525502",
+    "episodeUrl": "https://www.hotstar.com/in/shows/azhagae-azhagu/1271525502/lakshmis-web-of-lies/1641041768/watch?ulp_id=1271525502"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Chinna Marumagal",
     "showId": "1260167204",
     "contentId": "1641041833",
@@ -110,5 +138,19 @@
     "duration": "20m",
     "url": "https://www.hotstar.com/in/shows/thaai-maaman/1271632024",
     "episodeUrl": "https://www.hotstar.com/in/shows/thaai-maaman/1271632024/poongodis-special-biryani-treat/1641041832/watch?ulp_id=1271632024"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Thendrale Mella Pesu",
+    "showId": "1271423778",
+    "contentId": "1641041799",
+    "season": 1,
+    "episode": 429,
+    "episodeTitle": "Ilamathi Challenges Kalamma",
+    "description": "Ilamathi and Nalini expose the swapped DNA report and rush to halt Kalamma's adoption of Paraman. At the temple, Ilamathi vows to bring back Paraman's real mother.",
+    "airDate": "19 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778",
+    "episodeUrl": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778/ilamathi-challenges-kalamma/1641041799/watch?ulp_id=1271423778"
   }
 ]
