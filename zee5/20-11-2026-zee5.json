@@ -1,6 +1,50 @@
 [
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Annamalai Kudumbam",
+    "contentId": "0-6-4z5852763",
+    "season": 1,
+    "episode": 309,
+    "episodeTitle": "Vaanmathi Suspects Venkateshan",
+    "description": "Vaanmathi grows suspicious when Venkatesan questions Annamalai about Lakshmi.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/annamalai-kudumbam/0-6-4z5852763"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Chinnan Siru Kiliye",
+    "contentId": "0-6-4z5789559",
+    "season": 1,
+    "episode": 352,
+    "episodeTitle": "Kripakaran Vents Out His Anger On Dheenadayalan",
+    "description": "Kripakaran vents his anger at Deenadayalan for demanding justice for Jayanthi's future.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/chinnan-siru-kiliye/0-6-4z5789559"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 95,
+    "episodeTitle": "Arjun Learns About The Vow",
+    "description": "Arjun questions Yamini and ends up learning about a vow made by Gautham",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 96,
+    "episodeTitle": "Arjun Tries to Find a Solution",
+    "description": "Worried about Ahalya, Arjun struggles to find a solution to the situation.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -9,6 +53,17 @@
     "description": "To stop Bharathi from repaying Gupta, Bhavani devises a plan.",
     "releaseDate": "2026-11-20T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/idhayam/0-6-4z5419404"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Paarijatham",
+    "contentId": "0-6-4z5808694",
+    "season": 1,
+    "episode": 363,
+    "episodeTitle": "Vijayraghavan Secures Sreeja's Bail",
+    "description": "A lawyer arranged by Vijayaraghavan submits a fake medical report to secure bail for Sreeja.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/paarijatham/0-6-4z5808694"
   },
   {
     "channel": "ZEE_TAMIL",
@@ -23,6 +78,39 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Samanthi",
+    "contentId": "0-6-4z5975830",
+    "season": 1,
+    "episode": 95,
+    "episodeTitle": "Samanthi Prays For Roja",
+    "description": "Aadhav rushes Roja to the hospital, while Samanthi prays for her recovery.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com//details/samanthi/0-6-4z5975830"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Sandhya Raagam",
+    "contentId": "0-6-4z5437832",
+    "season": 1,
+    "episode": 1037,
+    "episodeTitle": "Parvathy Seeks Karthik's Help",
+    "description": "After the untoward incident at the mill, the workers refuse to work, Parvathy seeks Karthik's help.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/sandhya-raagam/0-6-4z5437832"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Thirumangalyam",
+    "contentId": "0-6-4z5846408",
+    "season": 1,
+    "episode": 280,
+    "episodeTitle": "Mohanavalli Gives an Information to Gajendran",
+    "description": "Mohanavalli informs Gajendran about Thiru and Lakshmi celebrating their first Deepavali",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/thirumangalyam/0-6-4z5846408"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Varisu",
     "contentId": "0-6-4z5778545",
     "season": 1,
@@ -31,5 +119,27 @@
     "description": "Cibi thinks of a way to stop Tamil and confesses his love in front of the family.",
     "releaseDate": "2026-11-20T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 95,
+    "episodeTitle": "Sarika Stops Dev From Revealing The Truth",
+    "description": "Dev tries to reveal the truth about Madhav to Chandrika, Sarika intervenes and stops him",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 96,
+    "episodeTitle": "Vasudha Hides Her Nuptial Chain",
+    "description": "Vasudha hides her mangalsutra from Hanumanth and Raghu.",
+    "releaseDate": "2026-11-20T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]
