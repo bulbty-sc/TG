@@ -12,6 +12,28 @@
   },
   {
     "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 109,
+    "episodeTitle": "Ahalya Looks For Indra's Belongings",
+    "description": "While searching for Indra's belongings, Ahalya cleverly handles Nandhu's questions.",
+    "releaseDate": "2026-11-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Enna Solla Pogirai",
+    "contentId": "0-6-4z51080149",
+    "season": 1,
+    "episode": 110,
+    "episodeTitle": "Gautham's Act Stuns Arjun",
+    "description": "As suggested by the priest, Gautham carries Ahalya and walks on fire, and this stuns Arjun.",
+    "releaseDate": "2026-11-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/enna-solla-pogirai/0-6-4z51080149"
+  },
+  {
+    "channel": "ZEE_TAMIL",
     "showName": "Idhayam",
     "contentId": "0-6-4z5419404",
     "season": 1,
@@ -53,5 +75,27 @@
     "description": "Prabhu feels defeated as Selvarathanam reunites with the family.",
     "releaseDate": "2026-11-28T00:00:00",
     "url": "https://www.zee5.com/tv-shows/details/varisu/0-6-4z5778545"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 109,
+    "episodeTitle": "Karishma Humiliates Hanumant",
+    "description": "Karishma insults Hanumant after learning that Dev and Avinash are helping him.",
+    "releaseDate": "2026-11-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
+  },
+  {
+    "channel": "ZEE_TAMIL",
+    "showName": "Vasudha",
+    "contentId": "0-6-4z51080141",
+    "season": 1,
+    "episode": 110,
+    "episodeTitle": "Karishma Threatens Vasudha",
+    "description": "Vasudha panics when Karishma threatens her that she sent Chandrika the shoot video.",
+    "releaseDate": "2026-11-28T00:00:00",
+    "url": "https://www.zee5.com/tv-shows/details/vasudha/0-6-4z51080141"
   }
 ]
