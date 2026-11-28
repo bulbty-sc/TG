@@ -1,6 +1,34 @@
 [
   {
     "channel": "STAR_VIJAY",
+    "title": "Ayyanar Thunai",
+    "showId": "1271388570",
+    "contentId": "1641042819",
+    "season": 1,
+    "episode": 584,
+    "episodeTitle": "Vannathi's Drastic Move",
+    "description": "Chozhan rejoices as Vannathi stands against Chandayatha and shares his happiness with Pallavan and Nila. Enraged by Pandian's confrontation, Vannathi proposes to Aravind.",
+    "airDate": "28 Nov 2026",
+    "duration": "19m",
+    "url": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570",
+    "episodeUrl": "https://www.hotstar.com/in/shows/ayyanar-thunai/1271388570/vannathis-drastic-move/1641042819/watch?ulp_id=1271388570"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Kadhal Kadhal Kadhal",
+    "showId": "1271660314",
+    "contentId": "1641042834",
+    "season": 1,
+    "episode": 113,
+    "episodeTitle": "Arjun Rushes to Stop the Wedding",
+    "description": "Shyam and Madhu reach the registrar's office to marry while Saranya urges Arjun to bring Madhu home. Ajun's friends ask Madhu to stall as Arjun rushes in to stop the wedding.",
+    "airDate": "28 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/kadhal-kadhal-kadhal/1271660314",
+    "episodeUrl": "https://www.hotstar.com/in/shows/kadhal-kadhal-kadhal/1271660314/arjun-rushes-to-stop-the-wedding/1641042834/watch?ulp_id=1271660314"
+  },
+  {
+    "channel": "STAR_VIJAY",
     "title": "Kanmani Anbudan",
     "showId": "1271328975",
     "contentId": "1641042845",
@@ -26,5 +54,47 @@
     "duration": "20m",
     "url": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603",
     "episodeUrl": "https://www.hotstar.com/in/shows/pandian-stores-2/1260000603/thangamayils-clash-with-anjali/1641042843/watch?ulp_id=1260000603"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Siragadikka Aasai",
+    "showId": "1260129356",
+    "contentId": "1641042849",
+    "season": 1,
+    "episode": 1189,
+    "episodeTitle": "Vijaya's Noisy Workout",
+    "description": "Annamalai and others are shocked by Vijaya's noisy workout as Muthu teases her. Later, Meena, Rohini and Shruthi set out for their first order with Muthu and Ravi.",
+    "airDate": "28 Nov 2026",
+    "duration": "18m",
+    "url": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356",
+    "episodeUrl": "https://www.hotstar.com/in/shows/siragadikka-aasai/1260129356/vijayas-noisy-workout/1641042849/watch?ulp_id=1260129356"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Suttum Vizhi Sudare",
+    "showId": "1271518434",
+    "contentId": "1641042831",
+    "season": 1,
+    "episode": 274,
+    "episodeTitle": "Abinaya Recalls Her Painful Past",
+    "description": "Abinaya is overwhelmed as painful memories resurface upon entering Mahesh's home. Swetha deeply regrets Vetri and Abinaya's separation, hoping to reunite them.",
+    "airDate": "28 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/suttum-vizhi-sudare/1271518434",
+    "episodeUrl": "https://www.hotstar.com/in/shows/suttum-vizhi-sudare/1271518434/abinaya-recalls-her-painful-past/1641042831/watch?ulp_id=1271518434"
+  },
+  {
+    "channel": "STAR_VIJAY",
+    "title": "Thendrale Mella Pesu",
+    "showId": "1271423778",
+    "contentId": "1641042807",
+    "season": 1,
+    "episode": 437,
+    "episodeTitle": "Ilamathi Embraces Motherhood",
+    "description": "Ilamathi is overjoyed as doctors confirm her pregnancy. After a long wait at the temple, she shares the happy news with Paraman, making the moment special.",
+    "airDate": "28 Nov 2026",
+    "duration": "20m",
+    "url": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778",
+    "episodeUrl": "https://www.hotstar.com/in/shows/thendrale-mella-pesu/1271423778/ilamathi-embraces-motherhood/1641042807/watch?ulp_id=1271423778"
   }
 ]
